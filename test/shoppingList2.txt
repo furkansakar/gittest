@@ -1,0 +1,3 @@
+master value 1
+masterv value 2 just before branch1
+masterv value 2 just after branch1
